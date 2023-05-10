@@ -6,7 +6,9 @@ NFC 통신을 통해 기기연결 및 운행종료, 접촉식 도착 처리가 �
 BLE 통신을 통한 별도 접촉식 스캔 없이 (hand-off) 도착 처리가 가능합니다.
 
 ## 기술스택
-```ReactNative, TypeScript, GraphQL```
+```
+ReactNative, TypeScript, GraphQL
+```
 
 ## 설치 및 실행
 npm 등 package 설치를 위해 아래와 같이 입력합니다.
