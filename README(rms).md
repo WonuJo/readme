@@ -4,7 +4,7 @@
 OTQ V1 의 기기 등록, RMS DB 내 중복 확인, 저장된 데이터 확인 등의 내부에서 사용하기 위한 App 입니다.
 
 ## 기술스택
-```ReactNative, JavaScript```
+```ReactNative, JavaScript, apollo, recoil```
 
 ## 설치 및 실행
 npm 등 package 설치를 위해 아래와 같이 입력합니다.
