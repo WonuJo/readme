@@ -4,7 +4,7 @@
 실제 배송 환경에서 Bio 기기가 임의적으로 도착할 수 있도록 만든 App 입니다.
 
 ## 기술스택
-```ReactNative, JavaScript```
+```ReactNative, JavaScript, apollo, recoil```
 
 ## 설치 및 실행
 npm 등 package 설치를 위해 아래와 같이 입력합니다.
