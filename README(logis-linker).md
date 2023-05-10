@@ -5,7 +5,7 @@
 매핑을 하기위해 만들어진 Logis 고객사용 App 입니다.
 
 ## 기술스택
-```ReactNative, TypeScript```
+```ReactNative, TypeScript, apollo, recoil```
 
 ## 설치 및 실행
 npm 등 package 설치를 위해 아래와 같이 입력합니다.
