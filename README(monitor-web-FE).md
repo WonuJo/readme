@@ -1,4 +1,4 @@
-# MONITOR FRONTEND
+# MONITOR WEB FRONTEND
 
 ## 설명
 POC 이전 시연용으로 보여주기 위한 Monitor 의 Web Front-End 입니다.
