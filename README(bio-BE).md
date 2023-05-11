@@ -1,7 +1,7 @@
 # BIO BACKEND
 
 ## 설명
-BIO 환경의 Web 과 App 의 BE 입니다.
+BIO 의 Web 과 App 의 BE 입니다.
 
 ## 기술스택
 ```NestJS, TypeScript, GraphQL, MySQL, TypeORM```
