@@ -19,4 +19,3 @@ yarn start
 
 ## ETC..
 digital envelope routines 등의 에러 발생 시 node version 을 낮춰 실행합니다.   
-포트는 +process.env.TEST_RMS ? 9999 : process.env.PORT || 8000 입니다.
