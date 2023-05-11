@@ -1,4 +1,4 @@
-# RMS
+# FRESH MONITOR
 
 ## 설명
 실제 배송환경에서 OTQ N2 사용 운송자(기사) 를 위한 App 입니다.   
