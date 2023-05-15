@@ -8,7 +8,7 @@
 ```ReactNative, TypeScript, apollo, recoil```
 
 ## 설치 및 실행
-npm 등 package 설치를 위해 아래와 같이 입력합니다.
+종속성 설치를 위해 아래와 같이 입력합니다.
 ```
 yarn
 ```
