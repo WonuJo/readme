@@ -17,10 +17,5 @@ yarn
 yarn start
 ```
 
-배포 시, 아래와 같이 입력합니다.
-```
-yarn build
-```
-
 ## ETC..
 digital envelope routines 등의 에러 발생 시 node version 을 낮춰 실행합니다. 
