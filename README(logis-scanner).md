@@ -7,12 +7,6 @@ Logis 의 실제 배송환경에서 OTQ V1 의 도착처리, 배송라벨을 스
 ```ReactNative, TypeScript, apollo, recoil```
 
 ## 설치 및 실행
-요구 사항은 아래와 같습니다.
-* Node.js
-* 패키지 매니저(npm 또는 yarn, yarn 권장)
-* Android Studio(안드로이드 개발 환경 구성 시)
-* Xcode(IOS 개발 환경 구성 시)
-
 npm 등 package 설치를 위해 아래와 같이 입력합니다.
 ```
 yarn
